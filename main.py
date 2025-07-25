@@ -495,6 +495,37 @@
 #
 # print(set1.union(set2))
 
+# set1.update(set2)
+
+# print(set1)
+
+# set1.intersection_update(set2)
+#
+# print(set1)
+
+# print(set1.isdisjoint(set2))
+
+
+# Dictionaries in python
+
+# Dictionaries are key-value pairs that are separated by commas and enclosed within curly braces{}.
+
+# Example
+
+dict = {
+    "Name": "Priyanshu",
+    "Age": 22,
+    "Profession": "Student"
+}
+
+# print(dict["Age"])
+
+
+
+
+
+
+
 
 
 
